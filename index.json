@@ -1,0 +1,38 @@
+[
+  {
+    "id": "L48",
+    "slug": "token-per-insight",
+    "name": "每洞见成本",
+    "cluster": "迭代经济学",
+    "dir": "L48-token-per-insight",
+    "loc": 29,
+    "chars": 826
+  },
+  {
+    "id": "L49",
+    "slug": "value-of-information-gate",
+    "name": "信息价值闸",
+    "cluster": "迭代经济学",
+    "dir": "L49-value-of-information-gate",
+    "loc": 26,
+    "chars": 602
+  },
+  {
+    "id": "L50",
+    "slug": "amortization-planner",
+    "name": "摊销规划",
+    "cluster": "迭代经济学",
+    "dir": "L50-amortization-planner",
+    "loc": 25,
+    "chars": 732
+  },
+  {
+    "id": "L51",
+    "slug": "sunk-cost-breaker",
+    "name": "沉没成本断路",
+    "cluster": "迭代经济学",
+    "dir": "L51-sunk-cost-breaker",
+    "loc": 32,
+    "chars": 955
+  }
+]
